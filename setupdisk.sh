@@ -28,3 +28,9 @@ n
 p
 w
 EOF
+
+# creating a file system
+
+sudo mkfs -t ext3 "${LFS_DISK}1"
+sudo mkfs -t ext3 "${LFS_DISK}2"
+sudo mkfs -t ext3 "${LFS_DISK}3"
