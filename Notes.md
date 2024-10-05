@@ -7,3 +7,8 @@ One of the bigger controversies pertaining to systemd seems that it included a D
 #[https://www.reddit.com/r/redhat/comments/qefrhm/systemctl_vs_systemd_vs_service/]
 It tries to do everything and thats a problem. But at its core as a init process, it is pretty good.
 
+
+# Cross-compilation:
+
+#[https://unix.stackexchange.com/questions/668844/why-is-the-canadian-cross-used-for-cross-compilation-in-linux-from-scratch]
+![A Better Explanation to Cross compiling IMO](crosscompile.png)
